@@ -9,6 +9,8 @@ Features:
     User-Friendly Interface: Simple navigation through menu-based interaction.
     MySQL Integration: Seamless database connectivity for efficient data storage and retrieval.
 
+    You can find the code and project details attached to the file "CS Report" above.
+
 Technologies Used:
 
     Python: Core programming language.
