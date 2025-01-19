@@ -28,7 +28,7 @@ Getting Started:
 
     Clone the repository:
 
-git clone https://github.com/your-username/blood-donation-bank.git
+git clone https://github.com/darshmarothi/Blood-Donation-Bank-Management-System
 
 Navigate to the project directory:
 
