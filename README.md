@@ -24,19 +24,19 @@ Prerequisites:
     MySQL Server
     Required Python libraries (install via pip install -r requirements.txt)
 
-Getting Started:
+---
 
-    Clone the repository:
+Clone the repository:
 
-git clone https://github.com/darshmarothi/Blood-Donation-Bank-Management-System
+    git clone https://github.com/darshmarothi/Blood-Donation-Bank-Management-System
 
 Navigate to the project directory:
 
-cd blood-donation-bank
+    cd blood-donation-bank
 
 Install dependencies:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Set up the MySQL database as per the provided schema.
 Run the application:
